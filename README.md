@@ -1,1 +1,1 @@
-This project is designed to compare Wisconsin municipalit by their population.
+This project is designed to compare Wisconsin municipality by their population (in 2020).
